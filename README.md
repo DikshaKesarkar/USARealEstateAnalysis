@@ -1,10 +1,10 @@
 **#Business Problem Statements**
 
-Q1. How does Land Size in a specific Area Type affect Property Price?
-Q2. Which Area Type has more number of Houses?
-Q3. Which Area Type is most expensive?
-Q4. Why does Number of cities depends on its Area Type?
-Q5. Why does Urban Area being less in size, more expensive?
+1. How does Land Size in a specific Area Type affect Property Price?
+2. Which Area Type has more number of Houses?
+3. Which Area Type is most expensive?
+4. Why does Number of cities depends on its Area Type?
+5. Why does Urban Area being less in size, more expensive?
 
 
 - 1000 Rows/Records
